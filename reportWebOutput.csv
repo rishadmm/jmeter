@@ -1,0 +1,96 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1662881629761,4164,https://redberylit.com/index.php,200,OK,Thread Group 1-1,text,true,,1139085,15109,1,1,https://redberylit.com/index.php,1911,0,931
+1662881629761,1924,https://redberylit.com/index.php-0,200,OK,Thread Group 1-1,text,true,,23342,614,1,1,https://redberylit.com/index.php,1911,0,931
+1662881631781,815,https://redberylit.com/index.php-1,200,OK,Thread Group 1-1,bin,true,,4159,623,1,1,https://redberylit.com/images/favicon.png,815,0,515
+1662881631781,506,https://redberylit.com/index.php-2,200,OK,Thread Group 1-1,text,true,,132608,618,1,1,https://redberylit.com/css/style.css,254,0,0
+1662881631781,818,https://redberylit.com/index.php-3,200,OK,Thread Group 1-1,text,true,,56724,616,1,1,https://redberylit.com/css/all.css,815,0,516
+1662881631781,816,https://redberylit.com/index.php-4,200,OK,Thread Group 1-1,text,true,,12854,624,1,1,https://redberylit.com/css/cookiealert.css,815,0,515
+1662881631782,606,https://redberylit.com/index.php-5,200,OK,Thread Group 1-1,text,true,,108547,640,1,1,https://www.googletagmanager.com/gtag/js?id=UA-164160321-1,505,0,244
+1662881631782,815,https://redberylit.com/index.php-6,200,OK,Thread Group 1-1,bin,true,,7180,620,1,1,https://redberylit.com/images/logo.png,814,0,515
+1662881632390,298,https://redberylit.com/index.php-7,200,OK,Thread Group 1-1,bin,true,,67007,626,1,1,https://redberylit.com/images/banner-i-7.png,279,0,0
+1662881632598,255,https://redberylit.com/index.php-8,200,OK,Thread Group 1-1,bin,true,,10754,626,1,1,https://redberylit.com/images/banner-i-8.png,252,0,0
+1662881632598,247,https://redberylit.com/index.php-9,200,OK,Thread Group 1-1,bin,true,,3761,626,1,1,https://redberylit.com/images/banner-i-9.png,247,0,0
+1662881632627,276,https://redberylit.com/index.php-10,200,OK,Thread Group 1-1,bin,true,,78971,627,1,1,https://redberylit.com/images/rs-banner-2.png,258,0,0
+1662881632685,704,https://redberylit.com/index.php-11,200,OK,Thread Group 1-1,bin,true,,392000,623,1,1,https://redberylit.com/images/cloud-1.png,235,0,0
+1662881632688,264,https://redberylit.com/index.php-12,200,OK,Thread Group 1-1,bin,true,,4472,624,1,1,https://redberylit.com/images/preloder.png,264,0,0
+1662881632731,754,https://redberylit.com/index.php-13,200,OK,Thread Group 1-1,text,true,,2004,667,1,1,https://redberylit.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,754,0,521
+1662881632846,255,https://redberylit.com/index.php-14,200,OK,Thread Group 1-1,text,true,,87715,627,1,1,https://redberylit.com/js/jquery-3.3.1.min.js,234,0,0
+1662881632854,248,https://redberylit.com/index.php-15,200,OK,Thread Group 1-1,text,true,,21102,621,1,1,https://redberylit.com/js/popper.min.js,242,0,0
+1662881632904,267,https://redberylit.com/index.php-16,200,OK,Thread Group 1-1,text,true,,51816,624,1,1,https://redberylit.com/js/bootstrap.min.js,255,0,0
+1662881632953,277,https://redberylit.com/index.php-17,200,OK,Thread Group 1-1,text,true,,7062,635,1,1,https://redberylit.com/vendors/animate-css/wow.min.js,277,0,0
+1662881633102,266,https://redberylit.com/index.php-18,200,OK,Thread Group 1-1,text,true,,45115,645,1,1,https://redberylit.com/vendors/owl-carousel/owl.carousel.min.js,255,0,0
+1662881633102,245,https://redberylit.com/index.php-19,200,OK,Thread Group 1-1,text,true,,9602,646,1,1,https://redberylit.com/vendors/counterup/jquery.waypoints.min.js,243,0,0
+1662881633172,255,https://redberylit.com/index.php-20,200,OK,Thread Group 1-1,text,true,,1830,646,1,1,https://redberylit.com/vendors/counterup/jquery.counterup.min.js,254,0,0
+1662881633232,693,https://redberylit.com/index.php-21,200,OK,Thread Group 1-1,text,true,,2694,653,1,1,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js,693,0,423
+1662881633348,260,https://redberylit.com/index.php-22,200,OK,Thread Group 1-1,text,true,,2446,622,1,1,https://redberylit.com/js/cookiealert.js,259,0,0
+1662881633368,245,https://redberylit.com/index.php-23,200,OK,Thread Group 1-1,text,true,,5320,616,1,1,https://redberylit.com/js/theme.js,245,0,0
+1662881636779,1893,https://redberylit.com/about.php,200,OK,Thread Group 1-1,text,true,,246957,14414,1,1,https://redberylit.com/about.php,912,0,0
+1662881636779,924,https://redberylit.com/about.php-0,200,OK,Thread Group 1-1,text,true,,18585,614,1,1,https://redberylit.com/about.php,912,0,0
+1662881637712,241,https://redberylit.com/about.php-1,304,Not Modified,Thread Group 1-1,,true,,663,717,1,1,https://redberylit.com/images/favicon.png,0,0,0
+1662881637712,241,https://redberylit.com/about.php-2,304,Not Modified,Thread Group 1-1,,true,,693,721,1,1,https://redberylit.com/css/style.css,0,0,0
+1662881637712,257,https://redberylit.com/about.php-3,304,Not Modified,Thread Group 1-1,,true,,696,718,1,1,https://redberylit.com/css/all.css,0,0,0
+1662881637712,148,https://redberylit.com/about.php-4,304,Not Modified,Thread Group 1-1,text,true,,712,690,1,1,https://www.googletagmanager.com/gtag/js?id=UA-164160321-1,0,0,0
+1662881637712,241,https://redberylit.com/about.php-5,304,Not Modified,Thread Group 1-1,,true,,662,715,1,1,https://redberylit.com/images/logo.png,0,0,0
+1662881637712,263,https://redberylit.com/about.php-6,200,OK,Thread Group 1-1,bin,true,,33698,630,1,1,https://redberylit.com/images/pages-banner-1.png,252,0,0
+1662881637861,260,https://redberylit.com/about.php-7,304,Not Modified,Thread Group 1-1,,true,,665,720,1,1,https://redberylit.com/images/banner-i-9.png,0,0,0
+1662881637953,254,https://redberylit.com/about.php-8,200,OK,Thread Group 1-1,bin,true,,28526,626,1,1,https://redberylit.com/images/banner-i-1.png,252,0,0
+1662881637953,258,https://redberylit.com/about.php-9,200,OK,Thread Group 1-1,bin,true,,40006,627,1,1,https://redberylit.com/images/banner-i-15.png,252,0,0
+1662881637953,254,https://redberylit.com/about.php-10,200,OK,Thread Group 1-1,bin,true,,37564,627,1,1,https://redberylit.com/images/banner-i-16.png,253,0,0
+1662881637970,253,https://redberylit.com/about.php-11,200,OK,Thread Group 1-1,bin,true,,43683,627,1,1,https://redberylit.com/images/reporting-3.png,241,0,0
+1662881637975,260,https://redberylit.com/about.php-12,200,OK,Thread Group 1-1,bin,true,,15002,627,1,1,https://redberylit.com/images/reporting-4.png,260,0,0
+1662881638122,254,https://redberylit.com/about.php-13,304,Not Modified,Thread Group 1-1,,true,,661,718,1,1,https://redberylit.com/images/preloder.png,0,0,0
+1662881638207,228,https://redberylit.com/about.php-14,304,Not Modified,Thread Group 1-1,,true,,683,748,1,1,https://redberylit.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1662881638208,238,https://redberylit.com/about.php-15,304,Not Modified,Thread Group 1-1,,true,,697,730,1,1,https://redberylit.com/js/jquery-3.3.1.min.js,0,0,0
+1662881638211,249,https://redberylit.com/about.php-16,304,Not Modified,Thread Group 1-1,,true,,700,723,1,1,https://redberylit.com/js/popper.min.js,0,0,0
+1662881638223,248,https://redberylit.com/about.php-17,304,Not Modified,Thread Group 1-1,,true,,694,726,1,1,https://redberylit.com/js/bootstrap.min.js,0,0,0
+1662881638235,258,https://redberylit.com/about.php-18,304,Not Modified,Thread Group 1-1,,true,,688,737,1,1,https://redberylit.com/vendors/animate-css/wow.min.js,0,0,0
+1662881638377,261,https://redberylit.com/about.php-19,200,OK,Thread Group 1-1,text,true,,20977,655,1,1,https://redberylit.com/vendors/magnify-popup/jquery.magnific-popup.min.js,257,0,0
+1662881638436,236,https://redberylit.com/about.php-20,304,Not Modified,Thread Group 1-1,,true,,702,718,1,1,https://redberylit.com/js/theme.js,0,0,0
+1662881651508,1974,https://redberylit.com/about.php,200,OK,Thread Group 1-1,text,true,,32189,15072,1,1,https://redberylit.com/about.php,914,0,0
+1662881651508,915,https://redberylit.com/about.php-0,200,OK,Thread Group 1-1,text,true,,18589,614,1,1,https://redberylit.com/about.php,914,0,0
+1662881652430,236,https://redberylit.com/about.php-1,304,Not Modified,Thread Group 1-1,,true,,665,717,1,1,https://redberylit.com/images/favicon.png,0,0,0
+1662881652430,266,https://redberylit.com/about.php-2,304,Not Modified,Thread Group 1-1,,true,,695,719,1,1,https://redberylit.com/css/style.css,0,0,0
+1662881652430,241,https://redberylit.com/about.php-3,304,Not Modified,Thread Group 1-1,,true,,692,716,1,1,https://redberylit.com/css/all.css,0,0,0
+1662881652430,150,https://redberylit.com/about.php-4,304,Not Modified,Thread Group 1-1,text,true,,712,690,1,1,https://www.googletagmanager.com/gtag/js?id=UA-164160321-1,0,0,0
+1662881652430,254,https://redberylit.com/about.php-5,304,Not Modified,Thread Group 1-1,,true,,666,715,1,1,https://redberylit.com/images/logo.png,0,0,0
+1662881652430,247,https://redberylit.com/about.php-6,304,Not Modified,Thread Group 1-1,,true,,662,725,1,1,https://redberylit.com/images/pages-banner-1.png,0,0,0
+1662881652580,286,https://redberylit.com/about.php-7,304,Not Modified,Thread Group 1-1,,true,,673,720,1,1,https://redberylit.com/images/banner-i-9.png,0,0,0
+1662881652666,242,https://redberylit.com/about.php-8,304,Not Modified,Thread Group 1-1,,true,,664,721,1,1,https://redberylit.com/images/banner-i-1.png,0,0,0
+1662881652672,249,https://redberylit.com/about.php-9,304,Not Modified,Thread Group 1-1,,true,,664,722,1,1,https://redberylit.com/images/banner-i-15.png,0,0,0
+1662881652678,240,https://redberylit.com/about.php-10,304,Not Modified,Thread Group 1-1,,true,,662,722,1,1,https://redberylit.com/images/banner-i-16.png,0,0,0
+1662881652684,248,https://redberylit.com/about.php-11,304,Not Modified,Thread Group 1-1,,true,,666,722,1,1,https://redberylit.com/images/reporting-3.png,0,0,0
+1662881652697,256,https://redberylit.com/about.php-12,304,Not Modified,Thread Group 1-1,,true,,668,722,1,1,https://redberylit.com/images/reporting-4.png,0,0,0
+1662881652867,308,https://redberylit.com/about.php-13,304,Not Modified,Thread Group 1-1,,true,,663,718,1,1,https://redberylit.com/images/preloder.png,0,0,0
+1662881652908,267,https://redberylit.com/about.php-14,304,Not Modified,Thread Group 1-1,,true,,683,748,1,1,https://redberylit.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1662881652918,257,https://redberylit.com/about.php-15,304,Not Modified,Thread Group 1-1,,true,,695,728,1,1,https://redberylit.com/js/jquery-3.3.1.min.js,0,0,0
+1662881652922,253,https://redberylit.com/about.php-16,304,Not Modified,Thread Group 1-1,,true,,698,721,1,1,https://redberylit.com/js/popper.min.js,0,0,0
+1662881652933,254,https://redberylit.com/about.php-17,304,Not Modified,Thread Group 1-1,,true,,686,724,1,1,https://redberylit.com/js/bootstrap.min.js,0,0,0
+1662881652953,253,https://redberylit.com/about.php-18,304,Not Modified,Thread Group 1-1,,true,,694,735,1,1,https://redberylit.com/vendors/animate-css/wow.min.js,0,0,0
+1662881653176,306,https://redberylit.com/about.php-19,304,Not Modified,Thread Group 1-1,,true,,696,757,1,1,https://redberylit.com/vendors/magnify-popup/jquery.magnific-popup.min.js,0,0,0
+1662881653176,306,https://redberylit.com/about.php-20,304,Not Modified,Thread Group 1-1,,true,,696,716,1,1,https://redberylit.com/js/theme.js,0,0,0
+1662881661848,3001,https://www.redberylit.com/,200,OK,Thread Group 1-1,text,true,,1029518,15297,1,1,https://www.redberylit.com/,1387,0,484
+1662881661848,1391,https://www.redberylit.com/-0,200,OK,Thread Group 1-1,text,true,,23358,608,1,1,https://www.redberylit.com/,1387,0,484
+1662881663246,715,https://www.redberylit.com/-1,200,OK,Thread Group 1-1,bin,true,,4162,626,1,1,https://www.redberylit.com/images/favicon.png,714,0,480
+1662881663246,464,https://www.redberylit.com/-2,200,OK,Thread Group 1-1,text,true,,132615,621,1,1,https://www.redberylit.com/css/style.css,237,0,0
+1662881663246,764,https://www.redberylit.com/-3,200,OK,Thread Group 1-1,text,true,,56735,619,1,1,https://www.redberylit.com/css/all.css,753,0,503
+1662881663246,750,https://www.redberylit.com/-4,200,OK,Thread Group 1-1,text,true,,12861,627,1,1,https://www.redberylit.com/css/cookiealert.css,745,0,499
+1662881663246,360,https://www.redberylit.com/-5,304,Not Modified,Thread Group 1-1,text,true,,712,689,1,1,https://www.googletagmanager.com/gtag/js?id=UA-164160321-1,0,0,199
+1662881663246,726,https://www.redberylit.com/-6,200,OK,Thread Group 1-1,bin,true,,7183,623,1,1,https://www.redberylit.com/images/logo.png,725,0,484
+1662881663606,755,https://www.redberylit.com/-7,200,OK,Thread Group 1-1,bin,true,,67010,629,1,1,https://www.redberylit.com/images/banner-i-7.png,743,0,499
+1662881663711,239,https://www.redberylit.com/-8,200,OK,Thread Group 1-1,bin,true,,10743,629,1,1,https://www.redberylit.com/images/banner-i-8.png,225,0,0
+1662881663950,224,https://www.redberylit.com/-9,200,OK,Thread Group 1-1,bin,true,,3760,629,1,1,https://www.redberylit.com/images/banner-i-9.png,224,0,0
+1662881663961,262,https://www.redberylit.com/-10,200,OK,Thread Group 1-1,bin,true,,78978,630,1,1,https://www.redberylit.com/images/rs-banner-2.png,244,0,0
+1662881663972,692,https://www.redberylit.com/-11,200,OK,Thread Group 1-1,bin,true,,392005,626,1,1,https://www.redberylit.com/images/cloud-1.png,235,0,0
+1662881663997,272,https://www.redberylit.com/-12,200,OK,Thread Group 1-1,bin,true,,4473,627,1,1,https://www.redberylit.com/images/preloder.png,271,0,0
+1662881664010,262,https://www.redberylit.com/-13,200,OK,Thread Group 1-1,text,true,,2004,670,1,1,https://www.redberylit.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,262,0,0
+1662881664174,258,https://www.redberylit.com/-14,200,OK,Thread Group 1-1,text,true,,87708,630,1,1,https://www.redberylit.com/js/jquery-3.3.1.min.js,230,0,0
+1662881664223,244,https://www.redberylit.com/-15,200,OK,Thread Group 1-1,text,true,,21099,624,1,1,https://www.redberylit.com/js/popper.min.js,240,0,0
+1662881664270,273,https://www.redberylit.com/-16,200,OK,Thread Group 1-1,text,true,,51815,627,1,1,https://www.redberylit.com/js/bootstrap.min.js,238,0,0
+1662881664272,247,https://www.redberylit.com/-17,200,OK,Thread Group 1-1,text,true,,7069,638,1,1,https://www.redberylit.com/vendors/animate-css/wow.min.js,245,0,0
+1662881664361,244,https://www.redberylit.com/-18,200,OK,Thread Group 1-1,text,true,,45112,648,1,1,https://www.redberylit.com/vendors/owl-carousel/owl.carousel.min.js,234,0,0
+1662881664432,232,https://www.redberylit.com/-19,200,OK,Thread Group 1-1,text,true,,9603,649,1,1,https://www.redberylit.com/vendors/counterup/jquery.waypoints.min.js,232,0,0
+1662881664468,240,https://www.redberylit.com/-20,200,OK,Thread Group 1-1,text,true,,1833,649,1,1,https://www.redberylit.com/vendors/counterup/jquery.counterup.min.js,240,0,0
+1662881664520,199,https://www.redberylit.com/-21,304,Not Modified,Thread Group 1-1,,true,,912,735,1,1,https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js,0,0,0
+1662881664544,267,https://www.redberylit.com/-22,200,OK,Thread Group 1-1,text,true,,2443,625,1,1,https://www.redberylit.com/js/cookiealert.js,263,0,0
+1662881664605,244,https://www.redberylit.com/-23,200,OK,Thread Group 1-1,text,true,,5325,619,1,1,https://www.redberylit.com/js/theme.js,244,0,0
+1662881629705,11032,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2447749,59892,1,1,null,5124,24104,1415
